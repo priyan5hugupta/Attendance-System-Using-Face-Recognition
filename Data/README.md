@@ -1,1 +1,1 @@
-In this directory we asve the face encoding in the .txt format
+# In This Directory We Save The Face Encoding In The .txt Format.
